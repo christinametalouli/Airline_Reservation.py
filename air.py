@@ -5,7 +5,6 @@ import pymongo
 import json
 from bson import ObjectId
 from bson.json_util import dumps
-import uuid
 import time
 import random
 
