@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6331d072940987c197bed51c"
+  },
+  "flight_id": "AT22091310",
+  "name": "maria",
+  "passport": "ak789456",
+  "card": "1234123412341234",
+  "reservation_id": "AT1"
+},{
+  "_id": {
+    "$oid": "6331d093940987c197bed51d"
+  },
+  "flight_id": "AP22091411",
+  "name": "maria",
+  "passport": "ak789456",
+  "card": "1234123412341234",
+  "reservation_id": "AP1"
+},{
+  "_id": {
+    "$oid": "6331d0a2940987c197bed51e"
+  },
+  "flight_id": "AM22091512",
+  "name": "maria",
+  "passport": "ak789456",
+  "card": "1234123412341234",
+  "reservation_id": "AM1"
+}]

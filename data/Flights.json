@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6331cf4f940987c197bed518"
+  },
+  "departure_destination": "athens",
+  "arrival_destination": "thessaloniki",
+  "duration": "1",
+  "tickets": 219,
+  "flight_id": "AT22091310",
+  "departure_date": "13",
+  "departure_time": "10"
+},{
+  "_id": {
+    "$oid": "6331cf8e940987c197bed51a"
+  },
+  "departure_destination": "athens",
+  "arrival_destination": "paris",
+  "duration": "1",
+  "tickets": 219,
+  "flight_id": "AP22091411",
+  "departure_date": "14",
+  "departure_time": "11"
+},{
+  "_id": {
+    "$oid": "6331cfaa940987c197bed51b"
+  },
+  "departure_destination": "athens",
+  "arrival_destination": "madrid",
+  "duration": "1",
+  "tickets": 219,
+  "flight_id": "AM22091512",
+  "departure_date": "15",
+  "departure_time": "12"
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6331cc31940987c197bed514"
+  },
+  "email": "maria@gmail.com",
+  "name": "maria",
+  "username": "maraki",
+  "password": "12345678910",
+  "passport": "ak789456",
+  "user_category": "simple user"
+},{
+  "_id": {
+    "$oid": "6331ce48940987c197bed517"
+  },
+  "email": "nikos@gmail.com",
+  "name": "nikos",
+  "username": "nikos2000",
+  "password": "nikos20222023",
+  "user_category": "admin"
+}]
