@@ -1,5 +1,5 @@
-# An airline reservation system implemented in Python using Flask for the backend and MongoDB for data storage. It allows users to register, log in, search for flights, make reservations, and view reservations. Administrative functionalities include adding, deleting, and updating flights. The project is containerized using Docker for easy deployment and management.
-
+An airline reservation system implemented in Python using Flask for the backend and MongoDB for data storage. It allows users to register, log in, search for flights, make reservations, and view reservations. Administrative functionalities include adding, deleting, and updating flights. The project is containerized using Docker for easy deployment and management.
+---
 ### Τρόπος λειτουργίας
 
 Δημιουργία ενός docker image που συνδέεται με ένα container της MongoDB , εισαγωγή της βάσης δεδομένων DSAirlines που περιέχει τα collections "Users" , "Flights", "Reservations" στο image.
