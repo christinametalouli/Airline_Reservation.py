@@ -1,4 +1,4 @@
-# YpoxreotikiErgasiaSept22_E18104_Christina_Metalouli
+# An airline reservation system implemented in Python using Flask for the backend and MongoDB for data storage. It allows users to register, log in, search for flights, make reservations, and view reservations. Administrative functionalities include adding, deleting, and updating flights. The project is containerized using Docker for easy deployment and management.
 
 ### Τρόπος λειτουργίας
 
